@@ -1,0 +1,1 @@
+fichero sin utilidad mas allá de hacer un commit sin modificar nada de lo importante
